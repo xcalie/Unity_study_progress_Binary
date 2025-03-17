@@ -361,3 +361,21 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.plastic
+/Library/APIUpdater
+/Library
+/ProjectSettings
+/.vsconfig
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/ignore.conf
+/Temp
+/Temp/FSTimeGet-2d7fccb9404437149b510f9a5da27903
+/Temp/UnityLockfile
+/Temp/workerlic
+/Unity_study_progress_Binary.sln
+/UserSettings
+/UserSettings/EditorUserSettings.asset
+/UserSettings/Layouts
+/UserSettings/Layouts/default-2022.dwlt
+/UserSettings/Search.settings
